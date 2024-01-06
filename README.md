@@ -1,3 +1,11 @@
-Hello there 👋
+Just a frontend dev based in Italy
 
-Front-end developer based in Florence, Italy
+## Fun facts
+
+- Currently freelancing
+- Fluent in italian, english and typescript
+- Learning go and rust
+- React and Next
+- I use Arch, btw
+- I code in Vim, btw
+- I have several shibas, at least more than two
