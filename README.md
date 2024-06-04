@@ -29,3 +29,6 @@ Just a frontend dev aspiring to full-stack based in Italy
 - [liberconsulting.it](https://liberconsulting.it/)
 - [violabnb.com](https://violabnb.com/)
 
+| Testing grounds                           |
+| ----------------------------------------- |
+| <img src="http://51.44.8.209:8081/image"> |
