@@ -31,4 +31,4 @@ Just a frontend dev aspiring to full-stack based in Italy
 
 ## Playground
 
-<a href="https://github.com/otaleghani/spotify-widget"><img src="https://spotify_image.talesign.com/image" width="540"></a>
+<a href="https://github.com/otaleghani/spotify-widget"><img src="https://spotify_image.talesign.com/image" width="100%"></a>
