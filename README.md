@@ -29,6 +29,8 @@ Just a frontend dev aspiring to full-stack based in Italy
 - [liberconsulting.it](https://liberconsulting.it/)
 - [violabnb.com](https://violabnb.com/)
 
-| Testing ground                                                                                        |
-| ----------------------------------------------------------------------------------------------------- |
-| <a href="http://51.44.8.209:8081/image"><img src="http://51.44.8.209:8081/image?x=2" width="540"></a> |
+| Testing ground                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://spotify_image.talesign.com/image"><img src="https://spotify_image.talesign.com/image" width="540"></a> |
+
+<img src="https://spotify_image.talesign.com/image" width="540">
