@@ -28,7 +28,3 @@ Just a frontend dev aspiring to full-stack based in Italy
 - [shukram.it](https://shukram.it/)
 - [liberconsulting.it](https://liberconsulting.it/)
 - [violabnb.com](https://violabnb.com/)
-
-## Playground
-
-<a href="https://github.com/otaleghani/spotify-widget"><img src="https://spotify_image.talesign.com/image?some" width="100%"></a>
