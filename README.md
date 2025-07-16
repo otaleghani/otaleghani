@@ -9,7 +9,7 @@ Just a frontend dev aspiring to full-stack based in Italy
 - Fluent in italian, english and typescript
 - Learning go and rust
 - React and Next
-- I use ~~Arch~~ Nix on arch, btw
+- I use ~~Arch~~ Nix, btw
 - I code in (n)Vim, btw
 - I have several shibas and one is in heat, the the number could vary in the near future
 
